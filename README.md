@@ -1,5 +1,5 @@
 # Learn-PHP
-I have had over 7 request in less than 3 days of online resources where they can start learning PHP. I decided to put this list together as a reference point for future request. Everyone is free to contribute to this list
+I have gotten over 7 request in the last 3 days from friends for online resources where they can start learning PHP. I decided to put this list together as a reference point for future request. Everyone is free to contribute to this list
 
 # Beginners
 <ol>

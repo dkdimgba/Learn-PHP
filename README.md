@@ -10,7 +10,7 @@ You need to have a basic knowledge of HTML and CSS.
   <li><strong>W3Schools</strong> - http://www.w3schools.com/php/default.asp</li>
   <li><strong>Code Cademy PHP Tracks</strong> - https://www.codecademy.com/learn/php</li>
   <li><strong>PHP The Right Way</strong> - http://www.phptherightway.com/</li>
-  <li><strong>Killer PHP</strong> - http://www.killerphp.com/php-videos/ <br />Thumbsup to Prosper / https://github.com/unicodeveloper for pointing someone tpto this on twitter</li>
+  <li><strong>Killer PHP</strong> - http://www.killerphp.com/php-videos/</li>
 </ol>
 
 # Advanced

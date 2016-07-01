@@ -18,4 +18,14 @@ You need to have a basic knowledge of HTML and CSS.
   
 </ol>
 
-# Advanced
+# Intermediate / Advanced
+If you have passed the beginner stage, this space is for you
+
+I'd recommend checking out an MVC framework (I'll recommend <strong>Laravel</strong>/http://www.laravel.com, )
+
+<ol>
+  <li>PDO and ORM layers for database access ( http://www.modernphpbook.com/art... )</li>
+  <li>Dependency management with Composer ( http://www.modernphpbook.com/art... )</li>
+  <li>Security in PHP ( PHP Security Cheat Sheet )</li>
+  <li>Design Patterns in PHP ( DesignPatternsPHP ) </li>
+</ol>

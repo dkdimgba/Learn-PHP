@@ -11,6 +11,11 @@ You need to have a basic knowledge of HTML and CSS.
   <li><strong>Code Cademy PHP Tracks</strong> - https://www.codecademy.com/learn/php</li>
   <li><strong>PHP The Right Way</strong> - http://www.phptherightway.com/</li>
   <li><strong>Killer PHP</strong> - http://www.killerphp.com/php-videos/</li>
+  <li><strong>Laracasts</strong> - https://laracasts.com/skills/php</li>
+  <li><strong>PHP Enthusiast</strong> - http://phpenthusiast.com/</li>
+  <li><strong>PHP School</strong> - https://www.phpschool.io/</li>
+  <li><strong>Awesome PHP</strong> - https://github.com/ziadoz/awesome-php</li>
+  
 </ol>
 
 # Advanced

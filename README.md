@@ -24,8 +24,8 @@ If you have passed the beginner stage, this space is for you
 I'd recommend checking out an MVC framework (I'll recommend <strong>Laravel</strong>/http://www.laravel.com, )
 
 <ol>
-  <li>PDO and ORM layers for database access</li>
-  <li>Dependency management with Composer</li>
-  <li>Security in PHP ( PHP Security Cheat Sheet )</li>
-  <li>Design Patterns in PHP ( DesignPatternsPHP ) </li>
+  <li>PDO and ORM layers for database access - http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers</li>
+  <li>Dependency management with Composer - https://semaphoreci.com/community/tutorials/getting-started-with-composer-for-php-dependency-management, http://blog.teamtreehouse.com/dependency-management-in-php-using-composer</li>
+  <li>Security in PHP ( PHP Security Cheat Sheet ) - https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet</li>
+  <li>Design Patterns in PHP ( DesignPatternsPHP ) - http://www.phptherightway.com/pages/Design-Patterns.html, http://www.tutorialspoint.com/php/php_design_patterns.htm </li>
 </ol>
